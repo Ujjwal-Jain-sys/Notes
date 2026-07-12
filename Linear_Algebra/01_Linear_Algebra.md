@@ -1,13 +1,5 @@
 # Essence Of Linear Algebra-1
 ---
-**Date** - July 11
-**Daily Target Check.** 
-**Day-1**
-- [x] Master vector addition and scalar multiplication geometrically - **(Maths)** ✅ 2026-07-11
-- [ ] Implement matrix representation using nested lists and iterate through them using nested loops - **(python)**
-- [x] Configure your Git globally, set up SSH keys for GitHub, and create your first local repository. - **(Tools)** ✅ 2026-07-11
-- [ ] Create a local directory named py-engine-sandbox. Initialize Git, create a README.md, make your first commit, and push it to a new private GitHub repository. - **(Project)**
----
 ## Vectors
 ### What even is vector?
 
